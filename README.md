@@ -1,4 +1,4 @@
-# SPI Communication Between STM32 and Arduino UNO
+# SPI Communication between STM32 and Arduino UNO
 
 1. This project demonstrates **SPI communication** between the **STM32F446RE (Nucleo-64)** with an **Arduino UNO**.
 2. The **STM32F446RE** is configured as **SPI Master** using **bare metal(register-level) programming**, and the **Arduino UNO** is configured as **SPI Slave**
