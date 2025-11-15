@@ -28,7 +28,7 @@
 2.  **SPI** is configured in **Full duplex mode**
 3.  DFF(Data Frame Format) = 0 i.e. **8-bit Data Format**
 4.  **Hardware slave management (SSM = 0)**
-5.  SCLK speed = 2MHz , fclk = 16MHz
+5.  **SCLK speed = 2MHz** , fclk = 16MHz
 
 ## **Ardiuno UNO SPI Configuration**
 1. **Ardiuno UNO** is configured in **SPI Slave mode**
